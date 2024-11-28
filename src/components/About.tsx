@@ -120,12 +120,12 @@ export default function About() {
             >
               <Github className="text-blue-500" />
               <a 
-                href="http://54.193.105.168" 
+                href="https://github.com/foomz" 
                 target="_blank" 
                 rel="noopener noreferrer" 
                 className="hover:text-blue-500 transition-colors"
               >
-                Portfolio
+                Github
               </a>
             </motion.div>
           </div>
