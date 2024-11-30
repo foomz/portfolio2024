@@ -125,7 +125,7 @@ export default function About() {
                 rel="noopener noreferrer" 
                 className="hover:text-blue-500 transition-colors"
               >
-                foomz
+                /foomz
               </a>
             </motion.div>
           </div>
