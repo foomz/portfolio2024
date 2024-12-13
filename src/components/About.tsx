@@ -80,13 +80,6 @@ export default function About() {
               variants={itemVariants}
               className="flex items-center space-x-3 hover:text-blue-500 transition-colors"
             >
-              <Phone className="text-blue-500" />
-              <span>+639355618179</span>
-            </motion.div>
-            <motion.div 
-              variants={itemVariants}
-              className="flex items-center space-x-3"
-            >
               <Mail className="text-blue-500" />
               <div className="flex flex-col">
                 <a href="mailto:Jdeluna@nbi.gov.ph" className="hover:text-blue-500 transition-colors">
