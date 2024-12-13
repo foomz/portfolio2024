@@ -20,14 +20,6 @@ export default function Contact() {
             <p className="text-gray-400 text-center">Jdeluna@nbi.gov.ph</p>
           </a>
           
-          <a
-            href="tel:+639355618179"
-            className="flex flex-col items-center p-6 bg-gray-800 rounded-lg hover:bg-gray-750 transition-colors"
-          >
-            <Phone className="w-8 h-8 text-blue-500 mb-3" />
-            <h3 className="font-semibold mb-2">Phone</h3>
-            <p className="text-gray-400">+639355618179</p>
-          </a>
           
           <div className="flex flex-col items-center p-6 bg-gray-800 rounded-lg">
             <MapPin className="w-8 h-8 text-blue-500 mb-3" />
