@@ -85,9 +85,6 @@ export default function About() {
                 <a href="mailto:Jdeluna@nbi.gov.ph" className="hover:text-blue-500 transition-colors">
                   jdeluna@nbi.gov.ph
                 </a>
-                <a href="mailto:Johnraydeluna@gmail.com" className="hover:text-blue-500 transition-colors">
-                  johnraydeluna@gmail.com
-                </a>
               </div>
             </motion.div>
           </div>
